@@ -1,0 +1,16 @@
+{
+  "scope": "Synthetic offline exact-topic original-text filtering; not authentication or a full RAG system.",
+  "cases": [
+    {"name": "public_start_inclusive", "topic": "studio-pass", "day": "2032-03-01", "role": "visitor", "id": "pass-spring"},
+    {"name": "public_end_inclusive", "topic": "studio-pass", "day": "2032-03-31", "role": "visitor", "id": "pass-spring"},
+    {"name": "next_version_start", "topic": "studio-pass", "day": "2032-04-01", "role": "visitor", "id": "pass-april"},
+    {"name": "before_first_version", "topic": "studio-pass", "day": "2032-01-31", "role": "visitor", "id": null},
+    {"name": "no_end_date", "topic": "studio-pass", "day": "2034-07-19", "role": "visitor", "id": "pass-april"},
+    {"name": "member_filter", "topic": "studio-pass", "day": "2032-03-18", "role": "member", "id": "pass-member"},
+    {"name": "visitor_excludes_private", "topic": "studio-pass", "day": "2032-03-18", "role": "visitor", "id": "pass-spring"},
+    {"name": "staff_filter", "topic": "studio-pass", "day": "2032-03-18", "role": "staff", "id": "pass-staff"},
+    {"name": "unknown_topic", "topic": "lending-locker", "day": "2032-03-18", "role": "visitor", "id": null},
+    {"name": "expired_topic", "topic": "meeting-room", "day": "2032-04-01", "role": "visitor", "id": null},
+    {"name": "different_topic", "topic": "meeting-room", "day": "2032-03-18", "role": "visitor", "id": "room-spring"}
+  ]
+}
