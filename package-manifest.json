@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "name": "rag-design-review",
+  "version": "0.1.0",
+  "license": "MIT",
+  "copyright_holder": "xiaojin5222-ui",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "67ac629aecc251f1f286e56e532d9c207a764254ed78060bbcca9107c1969069"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "382e8fa033983241370501886c09d075af8aa247a4dd3a855a9b3125e37b9bfc"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "f13eab9293b5b94ce95f23c10053c299af2a662e84420ed7e670a839d6f556c4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "8d51b61e92dcdb1ec31589123f058bf6ee870794452d62970c81354534e8b202"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "cdb195595e6f15b192830295f82dc05f2cddb48077408faa6717b527c17faea0"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "08d07ef2b8f0cf8579303cc2d4862b7f21ff8fca30c17ccba4e4514c45da9d35"
+    },
+    {
+      "path": "VERSION",
+      "sha256": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "543b11257140a50f032d03f0b515d5e3bec11ff1d63b249d503cfeba16de93b1"
+    },
+    {
+      "path": "docs/INSTALL.md",
+      "sha256": "9201d94c729beed18d758f381eda3a13172fb0263a68efcaaa18fcbd003b136c"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "sha256": "88a844b43eac5d901208e34a539cc41c0b957d983e942274126c94512e49e8d3"
+    },
+    {
+      "path": "examples/check.py",
+      "sha256": "abab0c26b74eb02c1cfd44c3882338de7ecfa0ed1c71aa2a5c45614798a47d28"
+    },
+    {
+      "path": "examples/expected.json",
+      "sha256": "8aa2e34d7d45e96a376ec6b6d9c473767d618bf0ea90eac687e5179fee1c9999"
+    },
+    {
+      "path": "examples/expected.md",
+      "sha256": "faad92e8d2a6c8e25e52b3d32333e07256e7b564f82fbbb7f6f3a8dabd1f16fc"
+    },
+    {
+      "path": "examples/input/policies.json",
+      "sha256": "2730c660be1d5e015bda926dbe8eae74c3f9d51d48527a07f6e424c6f2bf5411"
+    },
+    {
+      "path": "examples/input/request.md",
+      "sha256": "15022ffe085964d5607c76e61fba642db029c54217b7e9e3d5675d407c4827ee"
+    },
+    {
+      "path": "examples/input/retriever.py",
+      "sha256": "474ec7d43eaee0716f901e2e234f88d322e5bbc4a9182389e970c5ac21889445"
+    },
+    {
+      "path": "examples/request.md",
+      "sha256": "15022ffe085964d5607c76e61fba642db029c54217b7e9e3d5675d407c4827ee"
+    }
+  ],
+  "note": "The manifest does not hash itself. SHA-256 detects changes, not author identity."
+}
