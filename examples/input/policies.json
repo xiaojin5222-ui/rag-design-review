@@ -1,0 +1,11 @@
+{
+  "synthetic": true,
+  "documents": [
+    {"id": "pass-archive", "topic": "studio-pass", "audience": "public", "valid_from": "2032-02-01", "valid_until": "2032-02-29", "published_at": "2032-01-25", "source": "synthetic-policy:archive", "text": "旧版工作室通行证可使用四小时。"},
+    {"id": "pass-spring", "topic": "studio-pass", "audience": "public", "valid_from": "2032-03-01", "valid_until": "2032-03-31", "published_at": "2032-02-23", "source": "synthetic-policy:spring", "text": "春季工作室通行证可使用六小时。"},
+    {"id": "pass-april", "topic": "studio-pass", "audience": "public", "valid_from": "2032-04-01", "valid_until": null, "published_at": "2032-03-28", "source": "synthetic-policy:april", "text": "四月起工作室通行证可使用九小时。"},
+    {"id": "pass-member", "topic": "studio-pass", "audience": "member", "valid_from": "2032-03-01", "valid_until": "2032-03-31", "published_at": "2032-02-26", "source": "synthetic-policy:member", "text": "会员春季通行证可使用十二小时。"},
+    {"id": "pass-staff", "topic": "studio-pass", "audience": "staff", "valid_from": "2032-03-01", "valid_until": null, "published_at": "2032-03-30", "source": "synthetic-policy:staff", "text": "工作人员通行证可使用十五小时。"},
+    {"id": "room-spring", "topic": "meeting-room", "audience": "public", "valid_from": "2032-03-01", "valid_until": "2032-03-31", "published_at": "2032-02-21", "source": "synthetic-policy:meeting-room", "text": "春季会议室每次预约七十五分钟。"}
+  ]
+}
