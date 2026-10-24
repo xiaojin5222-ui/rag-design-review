@@ -19,7 +19,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "8d51b61e92dcdb1ec31589123f058bf6ee870794452d62970c81354534e8b202"
+      "sha256": "7d4ee4b219e389a9e65da7a155dae19d5636f2a098a607dcb8b5eb88815a5310"
     },
     {
       "path": "SKILL.md",
@@ -43,7 +43,7 @@
     },
     {
       "path": "docs/VALIDATION.md",
-      "sha256": "88a844b43eac5d901208e34a539cc41c0b957d983e942274126c94512e49e8d3"
+      "sha256": "2e9546581aaac80446ad787d3daaeb8ecbbadef979bf548465867ce9e9f8d0d4"
     },
     {
       "path": "examples/check.py",
